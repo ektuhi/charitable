@@ -1,2 +1,2 @@
 # charitable
-sample website of Ektuhi Charitable
+sample website of Ektuhi Charitable t : https://ektuhi.github.io/charitable/
